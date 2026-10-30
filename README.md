@@ -41,8 +41,12 @@ Sales-Data-Analytics-Dashboard/
 │   └── Sales_Dashboard.png
 │
 └── README.md
-```
+## 🖥️ Dashboard Preview
 
+![Sales Data Analytics Dashboard](Screenshots/Sales_Dashboard.png)
+
+*Interactive Sales Dashboard showing sales by region, category, order ID, product, and date.*
+---
 ## 🚀 How to Use
 1. Download or clone this repository.
 2. Open the dashboard file using Microsoft Excel.
