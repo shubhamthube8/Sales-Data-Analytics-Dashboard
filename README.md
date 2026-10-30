@@ -44,7 +44,6 @@ Sales-Data-Analytics-Dashboard/
 ## 🖥️ Dashboard Preview
 
 ![Sales Data Analytics Dashboard](./Screenshots/Sales_Dashboard.png)
----
 ## 🚀 How to Use
 1. Download or clone this repository.
 2. Open the dashboard file using Microsoft Excel.
